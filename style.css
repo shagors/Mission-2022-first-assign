@@ -8,9 +8,16 @@ h1{
     font-size: 50px;
     line-height: 50px;
 }
+p{
+    font-size: 14px;
+}
+.h2-disg{
+    font-size: 30px;
+    font-weight: 700;
+}
 .btn{
     background-image: linear-gradient(#B993D6, #8CA6DB);
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 5px;
     text-decoration: none;
 }
@@ -60,7 +67,7 @@ h1{
     width: 90%;
     justify-content: space-around;
     margin-left: 70px;
-    margin-bottom: 200px;
+    margin-bottom: 70px;
 }
 .mi-first-content{
     width: 300px;
@@ -91,4 +98,29 @@ h1{
 }
 .mi-image-3 img{
     width: 35%;
+}
+.body-dev{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.body-dev-image img{
+    width: 50%;
+    padding-left: 250px;
+    
+}
+.body-dev-pra{
+    padding-right: 150px;
+}
+.body-third-elem{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.body-glo-com{
+    padding-left: 250px ;
+}
+.body-glo-com-image img{
+    width: 50%;
+    padding-left: 100px;
 }
