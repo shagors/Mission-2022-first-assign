@@ -124,3 +124,14 @@ p{
     width: 50%;
     padding-left: 100px;
 }
+
+.footer-add{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px 0;
+}
+.footer-add h1{
+    font-style: italic;
+    font-size: 40px;
+}
