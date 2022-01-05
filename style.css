@@ -48,3 +48,47 @@ h1{
 .head-image img{
     width: 80%;
 }
+.mission-head{
+    text-align: center;
+}
+.mission-head h1{
+    font-size: 40PX;
+}
+
+.mission-body{
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    margin-left: 70px;
+    margin-bottom: 200px;
+}
+.mi-first-content{
+    width: 300px;
+    height: 280px;
+    padding: 20px 20px;
+    background-color: #ecd9e5;
+    border-radius: 20px;
+}
+.mi-image-1 img{
+    width: 35%;
+}
+.mi-secoend-content{
+    width: 300px;
+    height: 280px;
+    padding: 20px 20px;
+    background-color: #c4d1e9;
+    border-radius: 20px;
+}
+.mi-image-2 img{
+    width: 35%;
+}
+.mi-third-content{
+   width: 300px;
+   height: 280px;
+   padding: 20px 20px;
+   background-color: #a8cfd8;
+   border-radius: 20px;
+}
+.mi-image-3 img{
+    width: 35%;
+}
