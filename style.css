@@ -128,6 +128,11 @@ p{
     display: flex;
     justify-content: space-around;
     margin-bottom: 50px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 170px;
+    background-position-x: 180px;
+    background-position-y: 70px;
 }
 .body-dev-image img{
     width: 50%;
@@ -149,7 +154,13 @@ p{
 .body-third-elem{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position-x: 1030px;
+    background-position-y: 250px;
+
 }
 .body-glo-com{
     padding-left: 250px ;
@@ -157,6 +168,13 @@ p{
 .body-glo-com-image img{
     width: 50%;
     padding-left: 100px;
+}
+.services{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position-x: 30px;
+    background-position-y: 250px;
 }
 .service-head{
     text-align: center;
@@ -173,7 +191,6 @@ p{
     height: 280px;
     padding: 20px 20px;
     border-radius: 20px;
-    /* background-image: url(./images/shapes/shape-1.png); */
 }
 .web-dev:hover{
     background-color: #bcdee5;
