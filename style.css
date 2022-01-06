@@ -6,10 +6,15 @@ body{
 }
 h1{
     font-size: 50px;
-    line-height: 50px;
+    line-height: 30px;
 }
 p{
     font-size: 14px;
+}
+#head-style{
+    font-family: 'The Nautigal',
+    cursive;
+    font-size: 70px;
 }
 .h2-disg{
     font-size: 30px;
@@ -86,6 +91,7 @@ p{
 }
 .mi-image-1 img:hover{
     width: 50%;
+    transition-duration: .4s;
 }
 .mi-secoend-content{
     width: 300px;
@@ -100,6 +106,7 @@ p{
 }
 .mi-image-2 img:hover {
     width: 50%;
+    transition-duration: .4s;
 }
 .mi-third-content{
    width: 300px;
@@ -114,6 +121,7 @@ p{
 }
 .mi-image-3 img:hover {
     width: 50%;
+    transition-duration: .4s;
 }
 .body-dev{
     display: flex;
@@ -152,11 +160,12 @@ p{
 
 .footer-add{
     text-align: center;
-    background-color: black;
-    color: white;
+    background-image: linear-gradient(#5f5e5c, #e7dddd);
+    color: black;
     padding: 5px 0;
 }
 .footer-add h1{
-    font-style: italic;
-    font-size: 40px;
+    font-family: 'The Nautigal',
+    cursive;
+    font-size: 65px;
 }
