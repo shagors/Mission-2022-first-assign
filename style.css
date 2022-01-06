@@ -19,6 +19,7 @@ p{
 .h2-disg{
     font-size: 30px;
     font-weight: 700;
+    line-height: 20px;
 }
 .btn{
     background-image: linear-gradient(#B993D6, #8CA6DB);
@@ -156,6 +157,59 @@ p{
 .body-glo-com-image img{
     width: 50%;
     padding-left: 100px;
+}
+.service-head{
+    text-align: center;
+}
+.What-can-service{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: #e5eef0; */
+    padding: 0 50px;
+    /* margin: 0 auto; */
+}
+.web-dev{
+    width: 300px;
+    height: 280px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+.web-dev:hover{
+    background-color: #bcdee5;
+    border: 2px solid #8cc0ca;
+    /* transition-duration: .4s; */
+}
+.web-dev-image img{
+    width: 100%;
+}
+.web-design{
+    width: 300px;
+    height: 280px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+.web-design:hover {
+    background-color: #bcdee5;
+    border: 2px solid #8cc0ca;
+    /* transition-duration: .4s; */
+}
+.web-design-image img{
+    width: 100%;
+}
+.photogrphy{
+    width: 300px;
+    height: 280px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+.photogrphy:hover {
+    background-color: #bcdee5;
+    border: 2px solid #8cc0ca;
+    /* transition-duration: .4s; */
+}
+.photogrphy-image img{
+    width: 100%;
+    height: 150px;
 }
 
 .footer-add{
