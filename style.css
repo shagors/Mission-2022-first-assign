@@ -22,7 +22,7 @@ p{
     line-height: 20px;
 }
 .btn{
-    background-image: linear-gradient(#B993D6, #8CA6DB);
+    background-image: linear-gradient(#c69fe4, #7b93c4);
     padding: 10px 30px;
     border-radius: 5px;
     text-decoration: none;
@@ -52,7 +52,7 @@ p{
 }
 .left-border{
     border-left: 4px solid;
-    border-image: linear-gradient(#f6b73c, #4d9f0c) 10;
+    border-image: linear-gradient(#f1ba4a, #4d9f0c) 10;
     padding-left: 8px;
 }
 .aquamarine-h{
@@ -85,7 +85,7 @@ p{
     padding: 20px 20px;
     background-color: #ecd9e5;
     border-radius: 20px;
-    box-shadow: 5px 10px 18px #888888;
+    box-shadow: 5px 10px 18px #4b4a4a;
 }
 .mi-image-1 img{
     width: 35%;
@@ -100,7 +100,7 @@ p{
     padding: 20px 20px;
     background-color: #c4d1e9;
     border-radius: 20px;
-    box-shadow: 5px 10px 18px #888888;
+    box-shadow: 5px 10px 18px #5f5c5c;
 }
 .mi-image-2 img{
     width: 35%;
@@ -113,7 +113,7 @@ p{
    width: 300px;
    height: 280px;
    padding: 20px 20px;
-   background-color: #a8cfd8;
+   background-color: #a9c0c5;
    border-radius: 20px;
    box-shadow: 5px 10px 18px #888888;
 }
