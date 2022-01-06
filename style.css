@@ -243,8 +243,8 @@ p{
 
 .footer-add{
     text-align: center;
-    background-image: linear-gradient(#5f5e5c, #e7dddd);
-    color: black;
+    background-color: rgb(29, 28, 28);
+    color: white;
     padding: 5px 0;
 }
 .footer-add h1{
